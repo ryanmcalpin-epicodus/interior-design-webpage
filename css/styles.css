@@ -4,5 +4,19 @@
 }
 img {
   width: 90%;
-  margin-top: 30px;
+  margin-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 40px;
+}
+
+.before {
+  background-color: #f4ff82;
+}
+.during{
+  background-color: #82ffbe;
+}
+.after {
+  background-color: #82adff;
 }
